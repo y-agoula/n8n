@@ -1,5 +1,5 @@
 # Weerbericht en smoes-generator om niet naar school te gaan
-Dagelijks een weerbericht met een smoes om niet naar school te gaan. Bij regen krijg je een herinnering dat je de juiste keuze hebt gemaakt. Is het zonnig? (wat het nooit is in Nederland) Dan is het tijd om naar buiten te gaan! 🌦️😆
+Dagelijks een weerbericht met een smoes om niet naar school te gaan. Bij regen krijg je een herinnering dat je de juiste keuze hebt gemaakt. Is het zonnig? (wat het nooit is in Nederland) Dan is het tijd om naar buiten te gaan, maar niet naar school he! 🌦️😆
 
 ##  Over dit project
 Dit n8n-project combineert een dagelijks weerbericht met een unieke smoes-generator en extra meldingen via e-mail en Discord.
