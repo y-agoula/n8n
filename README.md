@@ -8,7 +8,7 @@ Dit n8n-project combineert een dagelijks weerbericht met een unieke smoes-genera
 - Smoes-generator – Krijg een originele reden waarom je vandaag niet naar school hoeft. 
 - Regenmelding – Een herinnering als het regent, zodat je weet dat je de juiste keuze hebt gemaakt om thuis te blijven. 
 - Stormmelding – Waarschuwing als de wind 70 km/u of harder is. 
-- Zonnemelding – Notificatie bij mooi weer, zodat je weet dat het tijd is om naar buiten te gaan. 
+- Zonnemelding – Notificatie bij mooi weer, zodat je weet dat het tijd is om naar buiten te gaan (maar niet naar school he!).
 
 Alle meldingen worden verzonden via e-mail en Discord. 
 
